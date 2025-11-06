@@ -827,5 +827,4 @@ MIT License - See LICENSE file for details
 
 **Built with ❤️ for TEA Protocol** 🫖
 
-Version 1.0.0 | Last Updated: November 2024#   t e a p r o t o c o l a l p h a f i n d e r  
- 
+Version 1.0.0 | Last Updated: November 2024
