@@ -1,0 +1,23 @@
+version: 1
+metadata:
+  name: "Alpha Finders"
+  short_description: "AI-powered Telegram bot that discovers and analyzes new tokens on TEA Protocol."
+  description: "Alpha Finders is a Telegram bot designed to discover and analyze new tokens on the TEA Protocol network, featuring AI-powered risk assessment, scam detection, and market analytics for the TEA ecosystem."
+  license: "MIT"
+  language: "JavaScript"
+  repository: "https://github.com/<your-username>/alpha-finders"
+  category: "DeFi Tools"
+  tags:
+    - AI Bot
+    - Crypto Analytics
+    - Token Scanner
+    - DeFi Tools
+    - Telegram Bot
+    - Blockchain
+    - TEA Protocol
+    - Trading Bot
+    - Web3
+    - Automation
+maintainers:
+  - github: <IAmWhisperingShadow>
+    role: "developer"
